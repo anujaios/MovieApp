@@ -1,4 +1,5 @@
 Movie App
+
 A movie app that fetches data from the OMDb API, displays movies in a collection view, allows users to mark movies as favorites, and provides a search functionality.
 
 Features
